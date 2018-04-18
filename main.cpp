@@ -3,6 +3,6 @@
 int main() {
     std::cout << "Hello, World!I'm a little programmer.Nice to meet you." << std::endl;
     std::cout << "こんにちは世界!私は駆け出しのプログラマーです。よろしくお願いします。" << std::endl;
-    std::cout << "ねこです。よろしくおねがいします。メモ" << std::endl;
+    std::cout << "収容違反対策済み" << std::endl;
     return 0;
 }
